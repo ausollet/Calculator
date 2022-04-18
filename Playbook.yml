@@ -7,4 +7,4 @@
     - name: Pull image
       docker_image:
         name: ausollet/calculator
-        pull: yes
+        source: pull
