@@ -1,1 +1,1 @@
-172.16.201.168 ansible_user=iiitb
+localhost ansible_user=blackdragon
