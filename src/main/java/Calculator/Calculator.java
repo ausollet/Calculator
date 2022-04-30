@@ -116,5 +116,6 @@ public class Calculator
 
             logger.info("\'INVALID\'");
         }
+        
     }
 }
